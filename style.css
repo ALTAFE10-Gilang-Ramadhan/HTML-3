@@ -1,0 +1,225 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  margin-bottom: -20px;
+}
+
+ul {
+  padding: 14px;
+}
+
+li a:hover {
+  color: #f47522;
+}
+
+nav {
+  background-color: #fff;
+  padding: 5px;
+  text-align: right;
+  position: sticky;
+  top: 0;
+  overflow: auto;
+}
+nav li {
+  display: inline;
+  list-style-type: none;
+  margin-right: 20px;
+  width: 10px;
+}
+nav a {
+  font-size: 15px;
+  font-weight: 550;
+  text-decoration: none;
+  color: #053260;
+  margin-top: 10px;
+  padding-right: 0;
+  font-family: sans-serif;
+}
+.lastlink {
+  padding-right: 100px;
+}
+nav img {
+  float: left;
+  padding-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 55px;
+}
+
+.background {
+  width: 100%;
+  margin-top: -120px;
+  margin-bottom: -150px;
+}
+.bg {
+  width: 100%;
+}
+
+.profil {
+  border-radius: 50%;
+  width: 28%;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 150px;
+}
+
+.teks {
+  position: absolute;
+  display: inline;
+  margin-top: 370px;
+  margin-left: 600px;
+  color: #053260;
+}
+
+.hi {
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.name {
+  margin-top: -17px;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 74px;
+}
+
+.build {
+  margin-top: -50px;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.tombol {
+  background: #f47522;
+  color: white;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 11pt;
+  border-radius: 40px;
+}
+
+.tombol:hover {
+  background: #053260;
+}
+
+.judul {
+  background-color: #f4f7fc;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  text-align: left;
+  position: sticky;
+  top: 0;
+  overflow: auto;
+  font-family: sans-serif;
+  color: #053260;
+}
+
+.teks-about {
+  padding-left: 100px;
+  margin-right: 800px;
+  font-family: arial;
+  color: #053260;
+}
+
+.edu {
+  padding-top: 25px;
+}
+
+/*design table 1*/
+.table1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #053260;
+  border-collapse: collapse;
+}
+
+.table1,
+th,
+td {
+  border: 1px solid #999;
+  padding: 8px 20px;
+  width: 600px;
+}
+
+.pprofil {
+  width: 20%;
+  position: absolute;
+  margin-top: -460px;
+  margin-left: 900px;
+  border-radius: 25px;
+}
+
+.dot {
+  position: absolute;
+  margin-top: -240px;
+  margin-left: 860px;
+}
+
+header {
+  background-color: #4da4ff;
+  height: 100%;
+}
+
+footer {
+  margin-top: 100px;
+  background-color: #053260;
+  height: 100%;
+  margin-bottom: -50px;
+}
+
+.copy {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  padding-left: 750px;
+  padding-top: 50px;
+  position: absolute;
+  display: inline;
+  font-size: 14px;
+}
+
+.logo-footer {
+  display: inline;
+  padding: 40px;
+  padding-left: 100px;
+  width: 100px;
+}
+
+.social {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  padding-left: 450px;
+  padding-top: 30px;
+  position: absolute;
+  display: inline;
+}
+
+.foot {
+  position: absolute;
+  padding-top: 80px;
+  padding-left: 440px;
+  display: inline;
+}
+
+.logo-sosmed {
+  padding-left: 10px;
+  display: inline;
+}
+
+.garis {
+  margin-top: 20px;
+  margin-left: 670px;
+  border-left: 1px #fff solid;
+  height: 100px;
+  width: 0px;
+  position: absolute;
+  display: inline;
+}
